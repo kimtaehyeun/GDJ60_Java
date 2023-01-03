@@ -53,9 +53,9 @@ public class StudentInput {
 		Student student = new Student();
 		Student [] studentsadd = new Student[students.length+1];
 		//setstudent [4]  Student[3]	
-		// 43210		3210				3
+		// 3210		210				3
 		for(int i = 0; i<students.length; i++) {
-			studentsadd[i]=students[i];//[3]까지
+			studentsadd[i]=students[i];//[3]까지210
 		}
 		System.out.print("학생의 이름 입력 : ");
 		student.name = sc.next();
@@ -72,7 +72,8 @@ public class StudentInput {
 		System.out.println(student.name+"학생의 평균");
 		System.out.println(student.avg=(double)(student.total)/3);
 		
-		studentsadd[students.length] = student;
+		studentsadd[students.length] = student;//[3]까지
+		
 		
 		
 		
