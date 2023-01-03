@@ -8,6 +8,7 @@ public class Main {
 
 		System.out.println("프로그램 시작");
 		System.out.println("start");
+		System.out.println("s집");
 		
 		MenuController Action= new MenuController();
 		
