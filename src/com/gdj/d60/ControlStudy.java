@@ -6,10 +6,10 @@ import java.util.Scanner;
 public class ControlStudy {
 
    public static void main(String[] args) {
-      // 
+      // aaaa
       Scanner sc =new Scanner(System.in);
       Random random = new Random();
-      //game : TORPG
+      //game : TORPGa
       //마법사 
       //랜덤 클래스
       String name = "핫팩";
