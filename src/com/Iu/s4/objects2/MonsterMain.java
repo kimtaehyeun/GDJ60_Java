@@ -7,6 +7,7 @@ public class MonsterMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Monster mon1 = new Monster();
+		
 		mon1.power = 10;
 		mon1.hp = 100;
 		

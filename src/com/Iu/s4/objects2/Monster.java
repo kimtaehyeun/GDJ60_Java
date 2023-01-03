@@ -4,8 +4,16 @@ public class Monster {
 
 	//멤버변수 , instance변수
 	String name;
-	int power;
-	int hp;
+	int power=100;
+	int hp=10;
+	//생성자Constructer
+	public Monster() {
+		//매개변수가 없는 생성자를 기본 생성자라고 부름. default Constructor
+		this.power=50;
+		this.hp=60;
+		System.out.println("생성자 실행");
+	}
+	
 	//멤버메서드, Instance메서드
 	//공격
 	//어슬렁
