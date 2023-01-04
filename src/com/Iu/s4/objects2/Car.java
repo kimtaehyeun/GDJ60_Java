@@ -1,7 +1,7 @@
 package com.Iu.s4.objects2;
 
-public class Car {
-	String company;
+public class Car {//접근지정자 없으면 default
+	static String company = "bmw";
 	String name; 
 	int price;
 	String color;
