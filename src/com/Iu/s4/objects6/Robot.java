@@ -8,7 +8,6 @@ public class Robot {
 	public Robot(){
 		this.armRight= new ArmRight();
 	}
-	//asdfasdf
 	
 	
 	

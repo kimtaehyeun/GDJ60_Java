@@ -1,5 +1,5 @@
 package com.gdj.loops;
-//asdfasdfads
+
 //adsfasdf
 import java.util.Scanner;
 
