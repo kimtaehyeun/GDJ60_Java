@@ -1,5 +1,5 @@
 package com.gdj.loops;
-
+//asdfasdfads
 import java.util.Scanner;
 
 public class LoopWhile2_ex1 {
