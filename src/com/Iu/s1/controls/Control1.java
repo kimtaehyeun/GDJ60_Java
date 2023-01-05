@@ -3,7 +3,7 @@ package com.Iu.s1.controls;
 public class Control1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// T
 		//단일 if
 		//if(조건식){조건식이 true일 때 실행}
 		//졸업시험, 무조건 졸업, 평균이 90점 이상이면 우등상 수상
